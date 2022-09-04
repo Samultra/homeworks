@@ -21,8 +21,8 @@ function HW1() {
             <Message
                 avatar={messageData.avatar}
                 name={messageData.name}
-                 message={messageData.message}
-                 time={messageData.time}
+                message={messageData.message}
+                time={messageData.time}
             />
 
             <hr/>
@@ -31,6 +31,6 @@ function HW1() {
             <hr/>
         </div>
     )
-}
 
+}
 export default HW1
